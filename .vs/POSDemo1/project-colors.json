@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "22a63c80-42f8-423b-ad75-ea74a0f4c109": {
+      "ProjectGuid": "22a63c80-42f8-423b-ad75-ea74a0f4c109",
+      "DisplayName": "POSDemo1",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "f0a9a5ca-d99b-42e2-a361-e4f06cfa7aea": {
+      "ProjectGuid": "f0a9a5ca-d99b-42e2-a361-e4f06cfa7aea",
+      "DisplayName": "PythonApplication1",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
